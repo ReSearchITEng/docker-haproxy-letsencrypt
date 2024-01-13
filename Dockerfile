@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:bookworm
 MAINTAINER bringnow team <wecare@bringnow.com>
 
 ARG DEBIAN_FRONTEND=noninteractive
